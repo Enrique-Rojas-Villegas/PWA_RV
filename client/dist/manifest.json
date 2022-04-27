@@ -6,8 +6,8 @@
       "type": "image/png"
     },
     {
-      "src": "/assets/icons/icon_384x384.png",
-      "sizes": "384x384",
+      "src": "/assets/icons/icon_389x389.png",
+      "sizes": "389x389",
       "type": "image/png"
     },
     {
@@ -32,11 +32,12 @@
     }
   ],
   "name": "Just Another Text Editor",
-  "short_name": "JATE",
+  "short_name": "J.A.T.E",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "Take notes and use it even offline!",
-  "background_color": "#225ca3",
-  "theme_color": "#225ca3"
+  "description": "A text editor that works even offline",
+  "background_color": "#19d3fc",
+  "theme_color": "#19d3fc",
+  "id": "/"
 }
